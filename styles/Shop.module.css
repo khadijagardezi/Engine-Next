@@ -1,0 +1,19 @@
+.container {
+    display: flex;
+    margin: 5px;
+    justify-content: space-between;
+}
+
+.main {
+    text-align: center;
+}
+.btn {
+    color : grey;
+    padding: 6px 15px;
+    text-transform: uppercase;
+    text-shadow: 1px 1px white;
+    background-color: white;
+    /* border: none; */
+    border : rgb(215, 215, 215) 1px solid;
+
+}

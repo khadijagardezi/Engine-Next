@@ -1,0 +1,17 @@
+.button {
+    padding: 10px 5px;
+    border: 1px solid rgb(182, 180, 180);
+    border-radius: 30px;
+    color : red
+    
+  }
+  .h1 {
+    color: red;
+    font-size: 6rem;
+    text-shadow: 9px 4px  rgb(37, 4, 4);
+}
+.h2 {
+  color: red;
+  text-shadow: 1px 2px rgb(226, 211, 128)
+
+}
